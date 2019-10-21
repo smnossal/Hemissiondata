@@ -1,4 +1,4 @@
-We have included data in this Zenado site that were used in the following jgr pubication:
+We have included data in this repository that were used in the following jgr pubication:
 
 "Geocoronal Hydrogen Emission Variation Over Two Solar Cycles" [Paper #2019JA026903R]
 
